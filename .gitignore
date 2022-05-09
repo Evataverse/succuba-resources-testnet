@@ -87,3 +87,5 @@ $RECYCLE.BIN/
 .history/
 
 old_metadata/
+raw_images/
+bin/
