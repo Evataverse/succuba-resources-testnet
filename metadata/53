@@ -1,0 +1,43 @@
+{
+  "name": "Succuba Test #53",
+  "description": "The succuba who pursues sincere, passionate, independent, rebellious, courage and freedom really exists in the hearts of each woman.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Back08"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Hiding",
+      "value": "A"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ch03"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hair03"
+    },
+    {
+      "trait_type": "Equip",
+      "value": "Shipin19"
+    },
+    {
+      "trait_type": "Signer",
+      "value": "Sign"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "53.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "image": "https://raw.githubusercontent.com/evataverse/succuba-resources-testnet/main/images/53.png"
+}
